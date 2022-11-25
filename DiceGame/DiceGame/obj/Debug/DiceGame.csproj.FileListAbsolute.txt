@@ -1,0 +1,12 @@
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGameInterface.g.cs
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame_MarkupCompile.cache
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame_MarkupCompile.lref
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGameInterface.baml
+C:\Users\Marjorie\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.g.resources
